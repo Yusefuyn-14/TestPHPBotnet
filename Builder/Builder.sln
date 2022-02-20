@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{19A97CFF-D1BF-495A-83D9-39316CED279A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "Stub\Stub.csproj", "{83336A6A-0E29-44F4-A8F0-1CDF9EF71E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A97CFF-D1BF-495A-83D9-39316CED279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A97CFF-D1BF-495A-83D9-39316CED279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A97CFF-D1BF-495A-83D9-39316CED279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A97CFF-D1BF-495A-83D9-39316CED279A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83336A6A-0E29-44F4-A8F0-1CDF9EF71E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83336A6A-0E29-44F4-A8F0-1CDF9EF71E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83336A6A-0E29-44F4-A8F0-1CDF9EF71E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83336A6A-0E29-44F4-A8F0-1CDF9EF71E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
